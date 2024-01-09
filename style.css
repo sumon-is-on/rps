@@ -44,7 +44,7 @@ img{
     margin-top: 3rem;
     gap: 5rem;
 }
-#user_score, #system_score{
+#user_score, #system_score, #draw_score{
     font-size: 4rem;
 }
 .message_container{
